@@ -62,7 +62,7 @@ Follow the emoji-guided prompts:
 🎨 Enable/disable colors
 
 # 📝 Example Usage
-![GIF](https://s7.ezgif.com/tmp/ezgif-7264e690cde12c.gif)
+![GIF](/demo.gif)
 
 # ⚙️ Configuration Options
 Option	Emoji	Description
