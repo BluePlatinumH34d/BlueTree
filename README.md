@@ -9,7 +9,7 @@ A **vivid blue-themed** directory tree generator with emoji charm! ✨ Visualize
 
 ---
 
-## 🗂 Project Description
+# 🗂 Project Description
 BlueTree is your new best friend for exploring directory structures! 💙 Generates beautiful trees with:
 - **3 Output Formats** 📑 (Text/JSON/HTML)
 - **Smart Sorting** 🔃 (Alphabetical/Size)
@@ -32,7 +32,7 @@ BlueTree is your new best friend for exploring directory structures! 💙 Genera
 
 📊 Summary Statistics
 
-# **📦 Installation **
+# 📦 Installation
  Install colorama dependency
 ```
 pip install colorama
