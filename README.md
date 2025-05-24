@@ -45,7 +45,7 @@ cd BlueTree
 # 🚀 Usage
 1: Run interactively:
 ```
-python BlueTree.py
+python3 BlueTree.py
 ```
 Follow the emoji-guided prompts:
 
