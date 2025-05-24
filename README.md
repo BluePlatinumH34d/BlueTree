@@ -32,9 +32,11 @@ BlueTree is your new best friend for exploring directory structures! 💙 Genera
 
 📊 Summary Statistics
 
-# **📦 Installation**
-** Install colorama dependency**
-```pip install colorama```
+# **📦 Installation **
+ Install colorama dependency
+```
+pip install colorama
+```
 
 # Download script
 ```
