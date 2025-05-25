@@ -341,7 +341,7 @@ def get_output_method():
 
 
 def main():
-    print(f"{Fore.BLUE}  💙 Welcome to Blue🌳Tree Directory Generator 💙{Style.RESET_ALL}")
+    print(f"{Fore.BLUE} 💙 Welcome to BlueTree Directory 🌳 Generator 💙{Style.RESET_ALL}")
 
     path = get_valid_directory()
     output_choice = get_output_method()
@@ -413,7 +413,7 @@ def main():
             print(f"\n{Fore.LIGHTMAGENTA_EX}🟣your 🌳 tree🟣{Style.RESET_ALL}")
             print(tree_data if export_format == 'text' else "Preview not available for JSON/HTML")
 
-        print(f"\n{Fore.BLUE}=== 📚️Statistics📚️ ==={Style.RESET_ALL}")
+        print(f"\n{Fore.RED}=== 📚️Statistics📚️ ==={Style.RESET_ALL}")
         print(f"Elapsed time⌛️: {time.time() - start_time:.2f} seconds")
         print(Fore.BLUE + """                                        
 ██████╗ ██╗     ██╗   ██╗███████╗
