@@ -1,5 +1,5 @@
 # BlueTree
-# Blue🌳Tree Directory Generator 💙
+# BlueTree Directory 🌳 Generator 💙
 
 
 ![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)
@@ -68,9 +68,13 @@ Follow the emoji-guided prompts:
 Option	Emoji	Description
 
 `--max-depth`	🕳️	Limit directory depth
+
 `--exclude-dirs`🚫	Comma-separated dirs to skip
+
 `--sort-by`🔃	[size/alphabetical]
+
 `--include-hidden` 🕶️	Show hidden files
+
 `--export-format` 📤	[text/json/html] .
 
 # 📜 License
