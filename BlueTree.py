@@ -1,4 +1,4 @@
-#u need to install colorama
+#you need to install colorama
 # 💙
 #pip install colorama or apt install python3-colorama
 import os
@@ -341,7 +341,7 @@ def get_output_method():
 
 
 def main():
-    print(f"{Fore.BLUE} 💙 Welcome to BlueTree Directory 🌳 Generator 💙{Style.RESET_ALL}")
+    print(f"{Fore.BLUE} 💙 Welcome to BlueTree, Directory 🌳 Generator 💙{Style.RESET_ALL}")
 
     path = get_valid_directory()
     output_choice = get_output_method()
