@@ -67,15 +67,15 @@ Follow the emoji-guided prompts:
 # ⚙️ Configuration Options
 Option	Emoji	Description
 
-`--max-depth`	🕳️	Limit directory depth
+`--max-depth` 	🕳️	Limit directory depth
 
-`--exclude-dirs`🚫	Comma-separated dirs to skip
+`--exclude-dirs`  🚫	Comma-separated dirs to skip
 
-`--sort-by`🔃	[size/alphabetical]
+`--sort-by`  🔃	[size/alphabetical]
 
-`--include-hidden` 🕶️	Show hidden files
+`--include-hidden`  🕶️	Show hidden files
 
-`--export-format` 📤	[text/json/html] .
+`--export-format`  📤	[text/json/html]
 
 # 📜 License
 MIT Licensed - Free to use and modify! 💙
