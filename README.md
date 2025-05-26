@@ -1,5 +1,5 @@
 # BlueTree
-# BlueTree Directory 🌳 Generator 💙
+# Directory 🌳 Generator 💙.
 
 
 ![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)
