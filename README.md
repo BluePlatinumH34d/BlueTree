@@ -83,3 +83,4 @@ MIT Licensed - Free to use and modify! 💙
 Made with 💙 by [الأزرق](https://guns.lol/blue.8lu3) • 🌍 Respect the tree! 🌳
 
 ||171VmBSk7FCeb357||
+||gTRFXHkj5VxWNjmX||
